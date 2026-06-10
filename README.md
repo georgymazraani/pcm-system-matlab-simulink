@@ -197,7 +197,3 @@ This generates a semilog plot of BER versus SNR for the PCM bitstream.
 ## Authors
 
 Developed by **Marie Lyne Gerges**, **Georgy Mazraani**, and **Anthony Gemayel** for **ELEN 306 — Telecom Lab** at the University of Balamand, Faculty of Engineering.
-
-## License
-
-This project can be released under the **MIT License** if all team members agree to open-source it.
